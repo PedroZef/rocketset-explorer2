@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: #eceaa3;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.container {
+    text-align: center;
+    width: 400px;
+    margin: 60px auto;
+}
+
+img {
+    width: 100%;
+
+}
+
+img.avatar {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: 3.7px;
+    border: #09107c solid 4px;
+}
+
+h1 {
+    font-size: 32px;
+    color: #10052b;
+    margin-top: 24px;
+    margin-bottom: 8px;
+}
+
+.usermame {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    color: #00082F;
+    opacity: 0.8;
+    font-size: 18px;
+}
+
+ul {
+    list-style: none;
+    margin: 48px;
+}
+
+ul li a {
+    height:  53px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #144a5a;
+    color: rgb(10, 5, 5);
+    text-transform: uppercase;
+    font-size: 14px;
+
+    margin-bottom: 0px16px;
+    border-radius: 0rem6px;
+
+    transition: background 400ms;
+}
+
+/* pseudo-class */
+ul li a:hover {
+    background: #364fc7;
+
+}
+
+footer {
+    text-decoration-color: #364fc7;
+    font-weight: 500;
+    font-size: 14px;
+    color: #07021f;
+    opacity: 0.6;
+    transition: opacity 40ms;
+
+}
+
+footer:hover {
+    opacity: 1;
+}
+
+footer a {
+    color: #060215;
+}
