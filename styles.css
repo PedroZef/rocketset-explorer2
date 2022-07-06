@@ -52,8 +52,8 @@ img {
 
 img.avatar {
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     padding: 3.7px;
     border: #09107c solid 4px;
 }
