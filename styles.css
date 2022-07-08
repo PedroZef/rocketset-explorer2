@@ -13,19 +13,20 @@ html {
     /* variáveis */
     --bg-color: #EDF2FF;
     --text-color: #00082F;
-    --primary-color: #4263EB;
+    --primary-color: #21860f;
     --primary-color-dark: #364FC7;
 }
 
 body.dark-blue {
-    --bg-color: #00082F;
-    --text-color: #FFFFFF;   
+    --bg-color: #050558;
+    --text-color: #FFFFFF;  
+    --text-color: #8d8988;
   
 }
 
 body.pink {
     --bg-color: #FFF0F6;
-    --text-color: #1F000B;
+    --text-color: #090707dc;
     --primary-color: #D6336C;
     --primary-color-dark: #A61E4D;
 
@@ -45,7 +46,7 @@ body {
 }
 
 img {
-    width: 100%;
+    width: 90%;
 
 }
 
@@ -55,7 +56,7 @@ img.avatar {
     width: 100px;
     height: 100px;
     padding: 3.7px;
-    border: #09107c solid 4px;
+    border: #6b4007 solid 4px;
 }
 
 img.avatar {
