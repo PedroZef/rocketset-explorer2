@@ -20,8 +20,7 @@ html {
 body.dark-blue {
     --bg-color: #00082F;
     --text-color: #FFFFFF;   
-    --primary-color: #D6336C;
-    --primary-color-dark: #A61E4D;
+  
 }
 
 body.pink {
@@ -51,6 +50,7 @@ img {
 }
 
 img.avatar {
+    background-image: url("https:github.com/PedroZef.png");
     border-radius: 50%;
     width: 100px;
     height: 100px;

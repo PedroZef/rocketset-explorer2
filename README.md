@@ -2,7 +2,6 @@
 
 ## Links
 
-
 [https://pedrozef.github.io/rocketset-explorer2/]
 
 [HTML]
